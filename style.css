@@ -1,0 +1,78 @@
+body {
+    font-family: sans-serif;
+    background-image:url(https://img.freepik.com/premium-photo/colorful-lego-cityscape-with-towering-buildings-ai-generated_731790-11701.jpg);
+}
+
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: rgb(255, 0, 0);
+    margin-bottom: 100px;
+}
+
+.technic {
+ text-align: left;
+ margin-left: 30px;
+ margin-top: 0px;
+ border: 3px solid red;
+  width: 300px;
+  background-image:url(https://i.postimg.cc/5tBtTGk4/311020188-2-630x409-r-removebg-preview-1.png);
+  font-size:20px ;
+  color: rgb(55, 34, 53);
+}
+.city {
+    text-align:center;
+    border: 3px solid red;
+    width: 300px;
+    background-image:url(https://i.postimg.cc/5tBtTGk4/311020188-2-630x409-r-removebg-preview-1.png);
+    font-size:20px ;
+    color: rgb(55, 34, 53);
+}
+
+.lego {
+    display: flex;
+    justify-content: space-between;
+}
+.harry_potter {
+    text-align:right;
+    margin-right:30px;
+    border: 3px solid red;
+     width: 300px;
+    background-image:url(https://i.postimg.cc/5tBtTGk4/311020188-2-630x409-r-removebg-preview-1.png);
+    font-size:20px ;
+    color: rgb(55, 34, 53);
+}
+
+footer {
+    background-color: red;
+    margin-top: 200px;
+}
+.harry {
+    text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+    position: relative;
+    bottom: 40px;
+    
+}
+.cit {
+     text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+    position: relative;
+    bottom: 40px;
+    left: 30px;
+}
+.technica {
+text-decoration: none;
+    color: yellow;
+    font-size: 20px;
+    position: relative;
+    bottom: 40px;
+    left: 70px;
+}
+
+    
