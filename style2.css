@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-image:url(https://img.freepik.com/premium-photo/colorful-lego-cityscape-with-towering-buildings-ai-generated_731790-11701.jpg);
+}
+
+
+h1 {
+    text-align: center;
+}
+
+header {
+    background-color: rgb(255, 0, 0);
+    margin-bottom: 130px;
+}
+
+
+
+footer {
+    background-color: red;
+    margin-top: 200px;
+}
+.harry {
+    display: flex;
+    justify-content:space-between ;
+}
+.a {
+  background-color: gray;
+    border: 8px double  red;
+}  
+
+h3 {
+   margin-left: 50px;
+   color: greenyellow; 
+}
+.market {
+    display: flex;
+    
+}
+p {
+    color: white;
+    font-size:20px;
+}
+h2 {
+    font-size: 17px;
+    text-align: center;
+}
